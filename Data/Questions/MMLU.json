@@ -1,0 +1,1502 @@
+[
+    {
+        "problem": "What is the correct answer to this question: Mast Co. converted from the FIFO method for inventory valuation to the LIFO method for financial statement and tax purposes. During a period of inflation would Mast's ending inventory and income tax payable using LIFO be higher or lower than FIFO? Ending inventory Income tax payable\n\nChoices:\n(A) Lower Lower\n(B) Higher Higher\n(C) Lower Higher\n(D) Higher Lower\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Lower Lower",
+        "choices": [
+            "Lower Lower",
+            "Higher Higher",
+            "Lower Higher",
+            "Higher Lower"
+        ],
+        "solution": "",
+        "domain": "professional_accounting",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: What are the dimensions of $\\hat{u}^t \\hat{u}?\n\nChoices:\n(A) T x k\n(B) T x 1\n(C) k x 1\n(D) 1 x 1\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "1 x 1",
+        "choices": [
+            "T x k",
+            "T x 1",
+            "k x 1",
+            "1 x 1"
+        ],
+        "solution": "",
+        "domain": "econometrics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: _______ theory can be described as a code of conduct to which all rational beings should adhere. This contrasts with ________ morality which is the code of conduct adopted by a particular group or society.\n\nChoices:\n(A) Descriptive, Normative\n(B) Normative, Instrumental\n(C) Normative, Descriptive\n(D) Ethical, Descriptive\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "Normative, Descriptive",
+        "choices": [
+            "Descriptive, Normative",
+            "Normative, Instrumental",
+            "Normative, Descriptive",
+            "Ethical, Descriptive"
+        ],
+        "solution": "",
+        "domain": "business_ethics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A city imposes a municipal excise tax of $200 per year on commercial artists' studios in that city. It also imposes an excise tax of $100 per year on every itinerant commercial figure drawer for the privilege of using the streets and sidewalks. A credit is allowed against this latter tax for any excise tax paid to the city by the drawer or his employer in respect to the maintenance of an artist's studio in the city. A gallery, located in a neighboring state, has been sending two itinerant artists into the city. Their practice is to draw a picture of a pedestrian, ask him to order a finished painting, and collect a payment of $2. 00. The drawing is sent to a studio, which frames it and mails the framed painting to the customer. The neighboring state does not impose a tax on artists' studios. The gallery challenges the constitutionality of the $100 per year excise tax that is imposed upon its itinerant artists in the city. The court will most likely declare this tax\n\nChoices:\n(A) constitutional, as a valid ad valorem tax on interstate commerce.\n(B) constitutional, since the tax was levied not on the commercial art business as a whole but on the local activity of drawing pictures.\n(C) unconstitutional, since a state or municipality may not impose a license tax on orders for goods or services to be perfonned in another state.\n(D) unconstitutional, as a discriminatory privilege tax.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "constitutional, since the tax was levied not on the commercial art business as a whole but on the local activity of drawing pictures.",
+        "choices": [
+            "constitutional, as a valid ad valorem tax on interstate commerce.",
+            "constitutional, since the tax was levied not on the commercial art business as a whole but on the local activity of drawing pictures.",
+            "unconstitutional, since a state or municipality may not impose a license tax on orders for goods or services to be perfonned in another state.",
+            "unconstitutional, as a discriminatory privilege tax."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Patents, control of resources, economies of scale, and exclusive licenses are\n\nChoices:\n(A) all requirements for price discrimination\n(B) required in order for a firm to earn short-run profits\n(C) all sources of elastic demand\n(D) all barriers to entry\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "all barriers to entry",
+        "choices": [
+            "all requirements for price discrimination",
+            "required in order for a firm to earn short-run profits",
+            "all sources of elastic demand",
+            "all barriers to entry"
+        ],
+        "solution": "",
+        "domain": "high_school_microeconomics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which component of a nation's balance of payments recognizes the purchase and sale of real and financial assets between nations?\n\nChoices:\n(A) The capital account\n(B) The official reserves account\n(C) The current account\n(D) The trade deficit account\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "The capital account",
+        "choices": [
+            "The capital account",
+            "The official reserves account",
+            "The current account",
+            "The trade deficit account"
+        ],
+        "solution": "",
+        "domain": "high_school_macroeconomics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: According to The Federalist Papers, federalism has which of the following effects on political factions?\n\nChoices:\n(A) It provides a structured environment in which factions may flourish.\n(B) It limits the dangers of factionalism by diluting political power.\n(C) It allows factions to dominate on the national level while limiting their influence on state governments.\n(D) It eliminates any opportunity for factions to form.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "It limits the dangers of factionalism by diluting political power.",
+        "choices": [
+            "It provides a structured environment in which factions may flourish.",
+            "It limits the dangers of factionalism by diluting political power.",
+            "It allows factions to dominate on the national level while limiting their influence on state governments.",
+            "It eliminates any opportunity for factions to form."
+        ],
+        "solution": "",
+        "domain": "high_school_government_and_politics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Keri spent 3 hours on her homework. She spent equal amounts of time on all subjects. If Keri spent 1 over 2 hour on science, how many subjects did she study?\n\nChoices:\n(A) 4 subjects\n(B) 2 subjects\n(C) 6 subjects\n(D) 5 subjects\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "6 subjects",
+        "choices": [
+            "4 subjects",
+            "2 subjects",
+            "6 subjects",
+            "5 subjects"
+        ],
+        "solution": "",
+        "domain": "elementary_mathematics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A teachers union, a nongovernmental entity, seeks to picket the local city school board for its decision to require higher certification for instructors who wish to teach in the gifted and talented classes in elementary school. After a few days of picketing, the school board seeks a temporary injunction in the state court to restrain further picketing of the school board. The school board insists that the teachers union has violated Section 101 of the city's picketing ordinance. Section 101 reads as follows:\"Section 101. No picketing shall be permitted inside of, or on any sidewalk or street immediately adjacent or contiguous to public elementary and secondary schools without express permission of the mayor. Applications for such permission shall be filed at least three days before such picketing is intended to begin and shall state the purpose, place, and time of the proposed picketing. \"The court will most likely\n\nChoices:\n(A) grant relief, because the teachers unionfailed to follow the procedure outlined in theordinance.\n(B) grant relief, because the ordinance isconstitutional.\n(C) deny relief, because the picketing ordinancewas unconstitutional on its face.\n(D) deny relief, because the ordinance does notprovide procedural due process.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "deny relief, because the picketing ordinancewas unconstitutional on its face.",
+        "choices": [
+            "grant relief, because the teachers unionfailed to follow the procedure outlined in theordinance.",
+            "grant relief, because the ordinance isconstitutional.",
+            "deny relief, because the picketing ordinancewas unconstitutional on its face.",
+            "deny relief, because the ordinance does notprovide procedural due process."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: The surface of Planet Earth loses energy to outer space due mostly to\n\nChoices:\n(A) conduction.\n(B) convection.\n(C) radiation.\n(D) radioactivity.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "radiation.",
+        "choices": [
+            "conduction.",
+            "convection.",
+            "radiation.",
+            "radioactivity."
+        ],
+        "solution": "",
+        "domain": "conceptual_physics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: In a criminal prosecution the government must prove that the defendant affixed a rubber-stamp containing his signature to certain fraudulent letters mailed to the victim. The defendant denied that he stamped the letters. There were no witnesses to the defendant stamping the letters. The prosecution attempted to present a co-worker to testify that defendant maintained sole control of the stamp and used it once daily at 3 p.m. to sign all outgoing letters, and then immediately returned it to his safe. The co-worker would testify that he saw the defendant using the stamp in that habitual manner over a period of many years. The defense objected because this did not prove that the defendant's practice was followed on the dates in question. Under the Federal Rules of Evidence, what will the court rule?\n\nChoices:\n(A) The testimony is inadmissible because evidence of habit is not admissible in a criminal case under the Federal Rules of Evidence.\n(B) The testimony is inadmissible because evidence of prior habit will only distract the jury from deciding whether the defendant actually acted that way on the specified dates.\n(C) The testimony is admissible because it proves that the defendant was the only person who could have used the stamp.\n(D) The testimony is admissible because habit and routine practice are admissible under the Federal Rules of Evidence.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "The testimony is admissible because habit and routine practice are admissible under the Federal Rules of Evidence.",
+        "choices": [
+            "The testimony is inadmissible because evidence of habit is not admissible in a criminal case under the Federal Rules of Evidence.",
+            "The testimony is inadmissible because evidence of prior habit will only distract the jury from deciding whether the defendant actually acted that way on the specified dates.",
+            "The testimony is admissible because it proves that the defendant was the only person who could have used the stamp.",
+            "The testimony is admissible because habit and routine practice are admissible under the Federal Rules of Evidence."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A father died leaving a will by which he devised a 100-acre tract to his daughter. At the time of the father's death, he believed that he owned all of the 100-acre tract. However, the father actually owned 95 acres of the tract. The other five acres were owned by a farmer. After taking possession of the tract, the daughter executed and delivered a warranty deed to a buyer, purporting to convey all 100 acres of the tract. The agreed purchase price was $100,000. According to the terms of the sale, the buyer paid the daughter a down payment of $25,000, with the unpaid portion of the purchase price (i. e. , $75,000) secured by a mortgage. The mortgage instrument described the property interest as covering all 100 acres of the tract. After the daughter \u0080\u0094buyer transaction was completed, the farmer came forward and informed the parties that she was the true record owner of five acres of the 100-acre tract. Upon the farmer's threat to sue to quiet title, the daughter negotiated a deal whereby she paid the farmer $5,000 for the five-acre tract. As part of their agreement, the farmer executed and delivered a quitclaim deed quitclaiming to the buyer all of her interest in the five-acre parcel. Thereafter, the buyer defaulted on the mortgage debt, and the daughter properly consummated foreclosure proceedings, becoming the purchaser of the tract at her own foreclosure sale. The description of the deed in the foreclosure sale referred to the tract as consisting of all 100 acres. After the foreclosure sale was finalized, the buyer brought suit claiming title in fee simple to the five-acre tract, formerly owned by the farmer. In an appropriate action to determine the title to the said five-acre tract, the buyer will\n\nChoices:\n(A) lose, because the daughter did not have good and marketable title at the time she purported to convey the 100-acre tract to the buyer.\n(B) lose, because the doctrine of after-acquired title controls.\n(C) win, because the deed from the farmer to the buyer was a quitclaim deed.\n(D) win, because the quitclaim deed from the farmer to the buyer was subsequent to the deed from the daughter to the buyer and to the mortgage.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "lose, because the doctrine of after-acquired title controls.",
+        "choices": [
+            "lose, because the daughter did not have good and marketable title at the time she purported to convey the 100-acre tract to the buyer.",
+            "lose, because the doctrine of after-acquired title controls.",
+            "win, because the deed from the farmer to the buyer was a quitclaim deed.",
+            "win, because the quitclaim deed from the farmer to the buyer was subsequent to the deed from the daughter to the buyer and to the mortgage."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I built a snowman inside the beautiful home. Scenario 2 | I popped the balloon and gave it back to the child.\n\nChoices:\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Wrong, Wrong",
+        "choices": [
+            "Wrong, Wrong",
+            "Wrong, Not wrong",
+            "Not wrong, Wrong",
+            "Not wrong, Not wrong"
+        ],
+        "solution": "",
+        "domain": "moral_scenarios",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure the speed of the ball just before it strikes the ground. From repeated measurement, the students estimate the uncertainty in the measured speed of the ball to be 10 percent. Which of the following gives the uncertainty in the kinetic energy of the ball? (Assume the uncertainty in the ball\u2019s mass is negligibly small.)\n\nChoices:\n(A) 5%\n(B) 10%\n(C) 15%\n(D) 20%\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "20%",
+        "choices": [
+            "5%",
+            "10%",
+            "15%",
+            "20%"
+        ],
+        "solution": "",
+        "domain": "college_physics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of these factors increases the risk for postmenopausal breast cancer?\n\n\nChoices:\n(A) Red meat\n(B) Dietary fat\n(C) Fish\n(D) Obesity\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "Obesity",
+        "choices": [
+            "Red meat",
+            "Dietary fat",
+            "Fish",
+            "Obesity"
+        ],
+        "solution": "",
+        "domain": "nutrition",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Statement 1| The SVM learning algorithm is guaranteed to find the globally optimal hypothesis with respect to its object function. Statement 2| After being mapped into feature space Q through a radial basis kernel function, a Perceptron may be able to achieve better classification performance than in its original space (though we can\u2019t guarantee this).\n\nChoices:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "True, True",
+        "choices": [
+            "True, True",
+            "False, False",
+            "True, False",
+            "False, True"
+        ],
+        "solution": "",
+        "domain": "machine_learning",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following is true of calcium metabolism?\n\nChoices:\n(A) Calcitonin causes a rise in plasma calcium\n(B) Primary hyperparathyroidism is usually asymptomatic\n(C) Vitamin D is secreted by the parathyroid glands\n(D) Oliguria is a symptom of hypercalcaemia\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Primary hyperparathyroidism is usually asymptomatic",
+        "choices": [
+            "Calcitonin causes a rise in plasma calcium",
+            "Primary hyperparathyroidism is usually asymptomatic",
+            "Vitamin D is secreted by the parathyroid glands",
+            "Oliguria is a symptom of hypercalcaemia"
+        ],
+        "solution": "",
+        "domain": "clinical_knowledge",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: The key attribute in successful marathon running is:\n\nChoices:\n(A) strength.\n(B) power.\n(C) stride length.\n(D) stamina.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "stamina.",
+        "choices": [
+            "strength.",
+            "power.",
+            "stride length.",
+            "stamina."
+        ],
+        "solution": "",
+        "domain": "clinical_knowledge",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: What is a replay attack?\n\nChoices:\n(A) When the attacker replies to a message sent to it by the system\n(B) An attack that continuously repeats, probing for a weakness\n(C) An attack that uses the system's own messages and so cannot be defended against\n(D) The attacker resends a captured message, and the site accept its and responds in the attacker's favor\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "The attacker resends a captured message, and the site accept its and responds in the attacker's favor",
+        "choices": [
+            "When the attacker replies to a message sent to it by the system",
+            "An attack that continuously repeats, probing for a weakness",
+            "An attack that uses the system's own messages and so cannot be defended against",
+            "The attacker resends a captured message, and the site accept its and responds in the attacker's favor"
+        ],
+        "solution": "",
+        "domain": "computer_security",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: China and Vietnam's dispute over the Spratley Islands is\n\nChoices:\n(A) a positional dispute.\n(B) a territorial dispute.\n(C) a resource dispute.\n(D) a functional dispute.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "a resource dispute.",
+        "choices": [
+            "a positional dispute.",
+            "a territorial dispute.",
+            "a resource dispute.",
+            "a functional dispute."
+        ],
+        "solution": "",
+        "domain": "high_school_geography",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: People who join a political party other than the one to which their parents belong most often do so because of\n\nChoices:\n(A) peer pressure\n(B) economic issues\n(C) religious beliefs\n(D) pressure from their employers\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "economic issues",
+        "choices": [
+            "peer pressure",
+            "economic issues",
+            "religious beliefs",
+            "pressure from their employers"
+        ],
+        "solution": "",
+        "domain": "high_school_government_and_politics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question:  Kant's humanity formulation of the categorical imperative makes it impermissible for us to, he argues,\n\nChoices:\n(A) sell one of our teeth.\n(B) engage in prostitution.\n(C) both A and B\n(D) Neither A nor B\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "both A and B",
+        "choices": [
+            "sell one of our teeth.",
+            "engage in prostitution.",
+            "both A and B",
+            "Neither A nor B"
+        ],
+        "solution": "",
+        "domain": "moral_disputes",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Before his conversion, what was Tolstoy surrounded by?\n\nChoices:\n(A) what is considered complete happiness\n(B) things that no one would want\n(C) what is considered heavenly bliss\n(D) what is considered deep insight\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "what is considered complete happiness",
+        "choices": [
+            "what is considered complete happiness",
+            "things that no one would want",
+            "what is considered heavenly bliss",
+            "what is considered deep insight"
+        ],
+        "solution": "",
+        "domain": "philosophy",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: What term can be used to describe 'the hypothetical agreement between member of society and those who govern it which establishes the inter-relationships, rights and responsibilities on a fair basis'?\n\nChoices:\n(A) Social Contract\n(B) Duty Ethics\n(C) Consequentialism\n(D) Virtue Ethics\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Social Contract",
+        "choices": [
+            "Social Contract",
+            "Duty Ethics",
+            "Consequentialism",
+            "Virtue Ethics"
+        ],
+        "solution": "",
+        "domain": "business_ethics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I refilled the shampoo bottle with shaving cream and put it back in the shower. Scenario 2 | I kept a distance from an ambulance.\n\nChoices:\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Wrong, Not wrong",
+        "choices": [
+            "Wrong, Wrong",
+            "Wrong, Not wrong",
+            "Not wrong, Wrong",
+            "Not wrong, Not wrong"
+        ],
+        "solution": "",
+        "domain": "moral_scenarios",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: This question is based on the following declarations: String strA = \"CARROT\", strB = \"Carrot\", strC = \"car\"; Given that all uppercase letters precede all lowercase letters when considering alphabetical order, which is true?\n\nChoices:\n(A) strA.compareTo(strB) < 0 && strB.compareTo(strC) > 0\n(B) strC.compareTo(strB) < 0 && strB.compareTo(strA) < 0\n(C) strB.compareTo(strC) < 0 && strB.compareTo(strA) > 0\n(D) !(strA.compareTo(strB) == 0) && strB.compareTo(strA) < 0\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "strB.compareTo(strC) < 0 && strB.compareTo(strA) > 0",
+        "choices": [
+            "strA.compareTo(strB) < 0 && strB.compareTo(strC) > 0",
+            "strC.compareTo(strB) < 0 && strB.compareTo(strA) < 0",
+            "strB.compareTo(strC) < 0 && strB.compareTo(strA) > 0",
+            "!(strA.compareTo(strB) == 0) && strB.compareTo(strA) < 0"
+        ],
+        "solution": "",
+        "domain": "high_school_computer_science",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A grantor conveyed his property to his son \"for life, remainder after (the son's) death to his heirs. \" Two years later, the son entered into a real estate agreement for the sale of the property to his friend, whereby the son agreed to convey the premises to his friend in fee simple absolute. Prior to the settlement date, the friend contacted the son, telling him that he would not perform his part of the agreement because the son could not convey a fee simple. If the Rule in Shelley's Case is followed in this jurisdiction, the outcome of a suit by the son for specific performance of the real estate contract would result in\n\nChoices:\n(A) the son's not succeeding, because he could not convey marketable title.\n(B) the son's succeeding, because he had a fee simple to convey.\n(C) the son's not succeeding, because his heirs have to join in the transaction in order to convey marketable title.\n(D) the son's succeeding, because the son's conveyance of his life estate to the friend divested the contingent remainder of his heirs.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "the son's succeeding, because he had a fee simple to convey.",
+        "choices": [
+            "the son's not succeeding, because he could not convey marketable title.",
+            "the son's succeeding, because he had a fee simple to convey.",
+            "the son's not succeeding, because his heirs have to join in the transaction in order to convey marketable title.",
+            "the son's succeeding, because the son's conveyance of his life estate to the friend divested the contingent remainder of his heirs."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: The authorities arrested a man without a warrant and held him imprisoned for 14 days without a determination of probable cause. He finally saw a public defender who filed a motion to dismiss alleging an unconstitutional detention in violation of due process. The prosecution countered that the state's rules allowed for detention without a probable cause hearing for up to 30 days, and that the procedure was constitutional. Will the court most likely decide that this detention is unconstitutional?\n\nChoices:\n(A) No, because the Supreme Court has ruled that detentions can properly last up to 30 days without a probable cause determination.\n(B) No, because each case must be decided on its own facts and there may be many good reasons why the state has not yet provided a probable cause determination.\n(C) Yes, because when the state arrests someone without a warrant it must provide a prompt probable cause determination.\n(D) No, because it is constitutional to hold someone for up to 15 days without a probable cause determination.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "Yes, because when the state arrests someone without a warrant it must provide a prompt probable cause determination.",
+        "choices": [
+            "No, because the Supreme Court has ruled that detentions can properly last up to 30 days without a probable cause determination.",
+            "No, because each case must be decided on its own facts and there may be many good reasons why the state has not yet provided a probable cause determination.",
+            "Yes, because when the state arrests someone without a warrant it must provide a prompt probable cause determination.",
+            "No, because it is constitutional to hold someone for up to 15 days without a probable cause determination."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: While a ski lift was ascending the mountain, the overhead cable broke, dropping a skier 15 feet to the ground. The skier suffered a broken pelvis on account of the fall. Thereafter, the skier sued the ski resort alleging negligent maintenance of the ski lift machinery. The ski resort's skier's attorney took a discovery deposition of a witness who was seated behind the skier at the time of the accident. The witness died shortly after the deposition. At trial, the skier offers the witness's deposition testimony into evidence. Upon objection by the ski resort's attorney, the deposition is\n\nChoices:\n(A) admissible as former testimony.\n(B) admissible, provided that the witness's statements are more probative on the point than any other evidence the skier can procure through reasonable efforts and that the skier has given the ski resort reasonable notice that she would offer the deposition.\n(C) inadmissible, because it violates the ski resort's right to confront the witnesses against itself.\n(D) inadmissible, because it is hearsay not within any recognized exception.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "admissible as former testimony.",
+        "choices": [
+            "admissible as former testimony.",
+            "admissible, provided that the witness's statements are more probative on the point than any other evidence the skier can procure through reasonable efforts and that the skier has given the ski resort reasonable notice that she would offer the deposition.",
+            "inadmissible, because it violates the ski resort's right to confront the witnesses against itself.",
+            "inadmissible, because it is hearsay not within any recognized exception."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I told my coworker I did not love her and never will love her. Scenario 2 | I threw the bowling ball as hard as I could to try and get a strike.\n\nChoices:\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "Not wrong, Not wrong",
+        "choices": [
+            "Wrong, Wrong",
+            "Wrong, Not wrong",
+            "Not wrong, Wrong",
+            "Not wrong, Not wrong"
+        ],
+        "solution": "",
+        "domain": "moral_scenarios",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Suppose your model is overfitting. Which of the following is NOT a valid way to try and reduce the overfitting?\n\nChoices:\n(A) Increase the amount of training data.\n(B) Improve the optimisation algorithm being used for error minimisation.\n(C) Decrease the model complexity.\n(D) Reduce the noise in the training data.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Improve the optimisation algorithm being used for error minimisation.",
+        "choices": [
+            "Increase the amount of training data.",
+            "Improve the optimisation algorithm being used for error minimisation.",
+            "Decrease the model complexity.",
+            "Reduce the noise in the training data."
+        ],
+        "solution": "",
+        "domain": "machine_learning",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: An isobar map shows lines connecting all points of equal\n\nChoices:\n(A) atmospheric pressure\n(B) surface temperature\n(C) elevation\n(D) precipitation\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "atmospheric pressure",
+        "choices": [
+            "atmospheric pressure",
+            "surface temperature",
+            "elevation",
+            "precipitation"
+        ],
+        "solution": "",
+        "domain": "high_school_geography",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following statements about Hirschsprung disease is incorrect?\n\nChoices:\n(A) It shows an association with Down syndrome.\n(B) It is more common in girls than in boys.\n(C) RET is a major susceptibility gene.\n(D) Recurrence risks are greater for long segment disease than for short segment disease.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "It is more common in girls than in boys.",
+        "choices": [
+            "It shows an association with Down syndrome.",
+            "It is more common in girls than in boys.",
+            "RET is a major susceptibility gene.",
+            "Recurrence risks are greater for long segment disease than for short segment disease."
+        ],
+        "solution": "",
+        "domain": "medical_genetics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct?\n\n\nChoices:\n(A) Pepsinogen is the chief enzyme which digests protein and requires removal of a peptide sequence from the active cleft before it can work\n(B) Pancreatic \u00e1-amylase will hydrolyse starch to free glucose\n(C) Enteropeptidase converts trypsinogen to trypsin by cleavage of a peptide sequence that blocks the active site of trypsin.\n(D) Pancreatic secretion of hydrochloric acid is required to provide the correct pH for maximal pancreatic enzyme in the duodenum\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "Enteropeptidase converts trypsinogen to trypsin by cleavage of a peptide sequence that blocks the active site of trypsin.",
+        "choices": [
+            "Pepsinogen is the chief enzyme which digests protein and requires removal of a peptide sequence from the active cleft before it can work",
+            "Pancreatic \u00e1-amylase will hydrolyse starch to free glucose",
+            "Enteropeptidase converts trypsinogen to trypsin by cleavage of a peptide sequence that blocks the active site of trypsin.",
+            "Pancreatic secretion of hydrochloric acid is required to provide the correct pH for maximal pancreatic enzyme in the duodenum"
+        ],
+        "solution": "",
+        "domain": "nutrition",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following correctly illustrates why price (P) equals marginal revenue (MR) under perfect competition, and why price (P) is greater than marginal revenue under monopoly or imperfect competition? I. MR = P = demand on horizontal function for perfect competition. II. P > MR as downward sloping functions for imperfect competition. III. Demand and Price are represented as a vertical function for imperfect competition.\n\nChoices:\n(A) I, II, and III.\n(B) I and II.\n(C) I only.\n(D) I and III.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "I and II.",
+        "choices": [
+            "I, II, and III.",
+            "I and II.",
+            "I only.",
+            "I and III."
+        ],
+        "solution": "",
+        "domain": "high_school_microeconomics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following is not a response to the illicit arms trade?\n\nChoices:\n(A) 2001 UN Protocol Against the Illicit Manufacturing of and Trafficking in Firearms, Their Parts and Components and Ammunition.\n(B) 2001 UN Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All its Aspects.\n(C) 2001 UN Security Council Resolution 1308 on HIV/AIDS as a National Security Threat.\n(D) 2005 Marking and Tracing of Weapons Accord.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "2001 UN Security Council Resolution 1308 on HIV/AIDS as a National Security Threat.",
+        "choices": [
+            "2001 UN Protocol Against the Illicit Manufacturing of and Trafficking in Firearms, Their Parts and Components and Ammunition.",
+            "2001 UN Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All its Aspects.",
+            "2001 UN Security Council Resolution 1308 on HIV/AIDS as a National Security Threat.",
+            "2005 Marking and Tracing of Weapons Accord."
+        ],
+        "solution": "",
+        "domain": "security_studies",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following anatomical regions of abdomen lies just distal to the sternum?\n\nChoices:\n(A) Epigastric\n(B) Hypochondriac\n(C) Hypogastric\n(D) Lumbar\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Epigastric",
+        "choices": [
+            "Epigastric",
+            "Hypochondriac",
+            "Hypogastric",
+            "Lumbar"
+        ],
+        "solution": "",
+        "domain": "anatomy",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A 64-year-old female presents to the office with the complaint of difficulty swallowing saliva for about 6\u00a0months. She has slurred speech. Examination of the tongue reveals wasting and fasciculation. Decreased deep tendon reflexes and fasciculation are noted in the left lower extremity. The deep tendon reflexes of the left upper extremity are hyperactive. The most likely diagnosis is\n\nChoices:\n(A) amyotrophic lateral sclerosis\n(B) Friedreich ataxia\n(C) Pick disease\n(D) progressive multifocal leukoencephalopathy\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "amyotrophic lateral sclerosis",
+        "choices": [
+            "amyotrophic lateral sclerosis",
+            "Friedreich ataxia",
+            "Pick disease",
+            "progressive multifocal leukoencephalopathy"
+        ],
+        "solution": "",
+        "domain": "professional_medicine",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: In what ways is it possible to gain a definition of terrorism?\n\nChoices:\n(A) A terrorist attack is that which uses the threat or use of organized violence to achieve political objectives. This may include kidnappings and organized violence for financial gain, and such attacks can be undertaken by groups or individuals.\n(B) Organization is essential for a successful campaign to bring about the political goals that are being sought. An act of terrorism targets an audience that extends beyond the immediate victims and is characterized as being a weapon of the weak.\n(C) Terrorist violence is a form of psychological warfare that generates fear in a target audience by attacking members of that group. Selected targets are chosen at random from a cross-section of groups within the state ranging from political representatives, security forces, civilians or law enforcement. Random acts of violence contribute to the sense of insecurity and societal instability.\n(D) Terrorism is a broad concept that is understood to denote the threat or use of organized violence for the attainment of political objectives. The definition may therefore be inclusive of governments as targets or perpetrators and cases of war (hot and cold) where terror and counter-terror measures are tactics of either side.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Organization is essential for a successful campaign to bring about the political goals that are being sought. An act of terrorism targets an audience that extends beyond the immediate victims and is characterized as being a weapon of the weak.",
+        "choices": [
+            "A terrorist attack is that which uses the threat or use of organized violence to achieve political objectives. This may include kidnappings and organized violence for financial gain, and such attacks can be undertaken by groups or individuals.",
+            "Organization is essential for a successful campaign to bring about the political goals that are being sought. An act of terrorism targets an audience that extends beyond the immediate victims and is characterized as being a weapon of the weak.",
+            "Terrorist violence is a form of psychological warfare that generates fear in a target audience by attacking members of that group. Selected targets are chosen at random from a cross-section of groups within the state ranging from political representatives, security forces, civilians or law enforcement. Random acts of violence contribute to the sense of insecurity and societal instability.",
+            "Terrorism is a broad concept that is understood to denote the threat or use of organized violence for the attainment of political objectives. The definition may therefore be inclusive of governments as targets or perpetrators and cases of war (hot and cold) where terror and counter-terror measures are tactics of either side."
+        ],
+        "solution": "",
+        "domain": "security_studies",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: What is the percentage of children aged 13-15 in the United States who reported being bullied at least once in the past couple of months as of 2015?\n\nChoices:\n(A) 26%\n(B) 46%\n(C) 66%\n(D) 86%\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "26%",
+        "choices": [
+            "26%",
+            "46%",
+            "66%",
+            "86%"
+        ],
+        "solution": "",
+        "domain": "global_facts",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A defendant was prosecuted for assault and battery after he admitted striking the victim with a pool cue during a barroom argument. The defendant claimed that he acted in self-defense after he was attacked by the victim, who was drunk and belligerent. At trial, the defendant called a witness who testified that the victim was the aggressor in the altercation. On cross-examination of the witness, the prosecuting attorney asked the witness the following question:\"Isn't it true that when you filed your federal income tax return last year, you failed to report the interest income from your savings accounts?\" The prosecuting attorney was informed of this fact by the witness's accountant. Upon objection by the defendant's attorney, the prosecutor's question is\n\nChoices:\n(A) improper, because it is not relevant to the issues in the case.\n(B) improper, because the defendant has not been convicted of any crime in connection with the tax return.\n(C) within the court's discretion to allow, because filing a false income tax return is an act that bears on the witness's truthfulness.\n(D) within the court's discretion to allow, because federal income tax evasion is a crime punishable by imprisonment in excess of one year.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "within the court's discretion to allow, because filing a false income tax return is an act that bears on the witness's truthfulness.",
+        "choices": [
+            "improper, because it is not relevant to the issues in the case.",
+            "improper, because the defendant has not been convicted of any crime in connection with the tax return.",
+            "within the court's discretion to allow, because filing a false income tax return is an act that bears on the witness's truthfulness.",
+            "within the court's discretion to allow, because federal income tax evasion is a crime punishable by imprisonment in excess of one year."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Statement 1| The BLEU metric uses precision, while the ROGUE metric uses recall. Statement 2| Hidden markov models were frequently used to model English sentences.\n\nChoices:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "True, True",
+        "choices": [
+            "True, True",
+            "False, False",
+            "True, False",
+            "False, True"
+        ],
+        "solution": "",
+        "domain": "machine_learning",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A kidney dialysis center periodically checks a sample of its equipment and performs a major recalibration if readings are sufficiently off target. Similarly, a fabric factory periodically checks the sizes of towels coming off an assembly line and halts production if measurements are sufficiently off target. In both situations, we have the null hypothesis that the equipment is performing satisfactorily. For each situation, which is the more serious concern, a Type I or Type II error?\n\nChoices:\n(A) Dialysis center: Type I error, towel manufacturer: Type I error\n(B) Dialysis center: Type I error, towel manufacturer: Type II error\n(C) Dialysis center: Type II error, towel manufacturer: Type I error\n(D) Dialysis center: Type II error, towel manufacturer: Type II error\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "Dialysis center: Type II error, towel manufacturer: Type I error",
+        "choices": [
+            "Dialysis center: Type I error, towel manufacturer: Type I error",
+            "Dialysis center: Type I error, towel manufacturer: Type II error",
+            "Dialysis center: Type II error, towel manufacturer: Type I error",
+            "Dialysis center: Type II error, towel manufacturer: Type II error"
+        ],
+        "solution": "",
+        "domain": "high_school_statistics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following tax systems is designed to redistribute income from the wealthy to the poor?\n\nChoices:\n(A) A progressive tax system\n(B) A regressive tax system\n(C) A proportional tax system\n(D) An excise tax system\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "A progressive tax system",
+        "choices": [
+            "A progressive tax system",
+            "A regressive tax system",
+            "A proportional tax system",
+            "An excise tax system"
+        ],
+        "solution": "",
+        "domain": "high_school_microeconomics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nI \u2261 ~J\nI \u2228 J / I\n\nChoices:\n(A) Valid\n(B) Invalid. Counterexample when I and J are true\n(C) Invalid. Counterexample when I is true and J is false\n(D) Invalid. Counterexample when J is true and I is false\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "Invalid. Counterexample when J is true and I is false",
+        "choices": [
+            "Valid",
+            "Invalid. Counterexample when I and J are true",
+            "Invalid. Counterexample when I is true and J is false",
+            "Invalid. Counterexample when J is true and I is false"
+        ],
+        "solution": "",
+        "domain": "formal_logic",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which crop began the Third Agricultural Revolution?\n\nChoices:\n(A) Rice\n(B) Wheat\n(C) Barley\n(D) Millet\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Rice",
+        "choices": [
+            "Rice",
+            "Wheat",
+            "Barley",
+            "Millet"
+        ],
+        "solution": "",
+        "domain": "high_school_geography",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: The mental retardation associated with PKU is preventable with:\n\nChoices:\n(A) removal of environmental toxins.\n(B) blood transfusions.\n(C) a special diet.\n(D) antibiotics.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "removal of environmental toxins.",
+        "choices": [
+            "removal of environmental toxins.",
+            "blood transfusions.",
+            "a special diet.",
+            "antibiotics."
+        ],
+        "solution": "",
+        "domain": "professional_psychology",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true statement?\n\nChoices:\n(A) Mary scored eight more points than Pam.\n(B) Mary's score is 8% higher than Pam's.\n(C) Eight percent of those who took the test scored between Pam and Mary.\n(D) Thirty-six people scored higher than both Mary and Pam.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "Eight percent of those who took the test scored between Pam and Mary.",
+        "choices": [
+            "Mary scored eight more points than Pam.",
+            "Mary's score is 8% higher than Pam's.",
+            "Eight percent of those who took the test scored between Pam and Mary.",
+            "Thirty-six people scored higher than both Mary and Pam."
+        ],
+        "solution": "",
+        "domain": "high_school_statistics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in\n\nChoices:\n(A) less than 20 years.\n(B) 20 years.\n(C) more than 20 years.\n(D) None of these.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "20 years.",
+        "choices": [
+            "less than 20 years.",
+            "20 years.",
+            "more than 20 years.",
+            "None of these."
+        ],
+        "solution": "",
+        "domain": "conceptual_physics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: What is a web proxy?\n\nChoices:\n(A) A piece of software that intercepts and possibly modifies requests (and responses) between a web browser and web server\n(B) An agent that makes decisions on the client's behalf when interacting with web applications\n(C) A piece of software that makes a web application look like a standalone application, making it easier to test\n(D) A simulator for the web, for use when off-line\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "A piece of software that intercepts and possibly modifies requests (and responses) between a web browser and web server",
+        "choices": [
+            "A piece of software that intercepts and possibly modifies requests (and responses) between a web browser and web server",
+            "An agent that makes decisions on the client's behalf when interacting with web applications",
+            "A piece of software that makes a web application look like a standalone application, making it easier to test",
+            "A simulator for the web, for use when off-line"
+        ],
+        "solution": "",
+        "domain": "computer_security",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: The slowing that occurs with advanced age appears to be centered in\n\nChoices:\n(A) The sense organs themselves\n(B) The brain\n(C) The muscle fibers\n(D) The peripheral nervous system\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "The brain",
+        "choices": [
+            "The sense organs themselves",
+            "The brain",
+            "The muscle fibers",
+            "The peripheral nervous system"
+        ],
+        "solution": "",
+        "domain": "human_aging",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: As a blinking light source approaching you gains speed, you see the frequency of flashes\n\nChoices:\n(A) increase.\n(B) decrease.\n(C) remain unchanged.\n(D) None of these.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "increase.",
+        "choices": [
+            "increase.",
+            "decrease.",
+            "remain unchanged.",
+            "None of these."
+        ],
+        "solution": "",
+        "domain": "conceptual_physics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: This question refers to the following information.\nThe following poem refers to an incident in Sharpeville, South Africa, in 1960. To protest the requirement that they carry papers documenting their identity and residence, black South Africans gathered in front of police stations without their papers. Though other protests ended peacefully, in Sharpeville, police fired into the crowd.\nWhat is important\nabout Sharpeville\nis not that seventy died:\nnor even that they were shot in the back\nretreating, unarmed, defenceless\nand certainty not\nthe heavy caliber slug\nthat tore through a mother's back\nand ripped through the child in her arms\nkilling it\nRemember Sharpeville\nbullet-in-the-back day\nBecause it epitomized oppression\nand the nature of society\nMore clearly than anything else;\nit was the classic event\nNowhere is racial dominance\nmore clearly defined\nnowhere the will to oppress\nmore clearly demonstrated\nWhat the world whispers\napartheid declares with snarling guns\nthe blood the rich lust after\nSouth Africa spills dust\nRemember Sharpeville\nRemember bullet-in-the-back day\nAnd remember the unquenchable will for freedom\nRemember the dead\nand be glad\n\u2014Dennis Brutus, 1973\nThe discriminatory system referred to in the poem was known as\n\nChoices:\n(A) Jim Crow.\n(B) spheres of influence.\n(C) Boer division.\n(D) apartheid.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "apartheid.",
+        "choices": [
+            "Jim Crow.",
+            "spheres of influence.",
+            "Boer division.",
+            "apartheid."
+        ],
+        "solution": "",
+        "domain": "high_school_world_history",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: What does the word \"Islam\" mean in Arabic?\n\nChoices:\n(A) Worship\n(B) Submission\n(C) Obedience\n(D) Faith\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Submission",
+        "choices": [
+            "Worship",
+            "Submission",
+            "Obedience",
+            "Faith"
+        ],
+        "solution": "",
+        "domain": "world_religions",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Self-efficacy (the belief that one has control over one's situation) as it related to job satisfaction was studied. When a group of teachers rated their ability to control their situation and their satisfaction with their job, the two variables had a correlation of 0.30. Which statement follows from this correlation?\n\nChoices:\n(A) If you want teachers to be happy with their job, give them more control over their situation.\n(B) If you want teachers to take more control over their situation, make them happier at their jobs.\n(C) Teachers in the study who were more satisfied with their job were less confident in their ability to control their situation.\n(D) 9% of the variability in job satisfaction can be explained by the linear model with self-efficacy as a predictor.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "9% of the variability in job satisfaction can be explained by the linear model with self-efficacy as a predictor.",
+        "choices": [
+            "If you want teachers to be happy with their job, give them more control over their situation.",
+            "If you want teachers to take more control over their situation, make them happier at their jobs.",
+            "Teachers in the study who were more satisfied with their job were less confident in their ability to control their situation.",
+            "9% of the variability in job satisfaction can be explained by the linear model with self-efficacy as a predictor."
+        ],
+        "solution": "",
+        "domain": "high_school_statistics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: According to Socrates, just as there is a difference between what an ironic statement says and its true meaning, so also appearances differ from reality.  Even though societies or individuals appear to differ about what is required for the good life, that in no way contradicts the fact that:\n\nChoices:\n(A) what is right or wrong, true or false varies from one culture to another.\n(B) appearances are the only real way we have for knowing reality.\n(C) the distinction of appearance and reality is the basis for the dialectical discovery of truth.\n(D) there are objective principles for thought and action that are required for the good life.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "there are objective principles for thought and action that are required for the good life.",
+        "choices": [
+            "what is right or wrong, true or false varies from one culture to another.",
+            "appearances are the only real way we have for knowing reality.",
+            "the distinction of appearance and reality is the basis for the dialectical discovery of truth.",
+            "there are objective principles for thought and action that are required for the good life."
+        ],
+        "solution": "",
+        "domain": "philosophy",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: If $f(x) = 2$ for all real numbers $x$, what is the value of $f(x + 2)$?\n\nChoices:\n(A) 2\n(B) 4\n(C) 0\n(D) 1\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "2",
+        "choices": [
+            "2",
+            "4",
+            "0",
+            "1"
+        ],
+        "solution": "",
+        "domain": "high_school_mathematics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: It has been argued by Braun and Chyba (2004) that indigenous nuclear programs are making proliferation safeguards obsolete. In what ways, if any, can a case be made to support this argument?\n\nChoices:\n(A) WMD may provide the means to offset inferiority in conventional armaments compared to regional or superpower rivals. Possession of WMD may act as a deterrence to stronger opponents against potential threat, or be used to defeat their adversaries if engaged in combat. WMD capabilities may also be developed to gain automatic status and diplomatic influence amongst the international community.\n(B) Although there are fears posed by WMD proliferation that terrorists may gain the capacity to develop weapons, it would remain very difficult to construct even a primitive gun-type nuclear weapon. However, whilst nuclear capabilities may be elusive, international or domestic terrorist networks may have the resources to construct and use chemical, biological, and radiological weapons.\n(C) WMD vary vastly in terms of their availability, lethality, and destructive potential and the ease with which they can be manufactured. This means that the potential threats posed by each type of weapon are different. High yield, lightweight nuclear weapons use cutting-edge technology, whilst some chemical and biological weapons have been available for a long time. What separates WMD from conventional weapons is the potential to cause high level destruction. Because of the psychological fear possession can generate, WMD will remain highly desirable as a political weapon.\n(D) All of these options.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "All of these options.",
+        "choices": [
+            "WMD may provide the means to offset inferiority in conventional armaments compared to regional or superpower rivals. Possession of WMD may act as a deterrence to stronger opponents against potential threat, or be used to defeat their adversaries if engaged in combat. WMD capabilities may also be developed to gain automatic status and diplomatic influence amongst the international community.",
+            "Although there are fears posed by WMD proliferation that terrorists may gain the capacity to develop weapons, it would remain very difficult to construct even a primitive gun-type nuclear weapon. However, whilst nuclear capabilities may be elusive, international or domestic terrorist networks may have the resources to construct and use chemical, biological, and radiological weapons.",
+            "WMD vary vastly in terms of their availability, lethality, and destructive potential and the ease with which they can be manufactured. This means that the potential threats posed by each type of weapon are different. High yield, lightweight nuclear weapons use cutting-edge technology, whilst some chemical and biological weapons have been available for a long time. What separates WMD from conventional weapons is the potential to cause high level destruction. Because of the psychological fear possession can generate, WMD will remain highly desirable as a political weapon.",
+            "All of these options."
+        ],
+        "solution": "",
+        "domain": "security_studies",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Why should careful consideration be given to providing people aged over 65 with information sources that are internet based?\n\nChoices:\n(A) They may have difficulty reading the screen.\n(B) Less than 30% of people over 65 years have access to the internet.\n(C) The internet is aimed at younger people.\n(D) They may not be able to type.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Less than 30% of people over 65 years have access to the internet.",
+        "choices": [
+            "They may have difficulty reading the screen.",
+            "Less than 30% of people over 65 years have access to the internet.",
+            "The internet is aimed at younger people.",
+            "They may not be able to type."
+        ],
+        "solution": "",
+        "domain": "clinical_knowledge",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Two women decided to steal some clothing from their favorite store. One of the women carried a large shopping bag containing a gun into the store. The other woman did not know that her partner had a gun in the shopping bag. After the women placed three dresses into the shopping bag, a clerk became suspicious and approached the women. The women tried to leave the store and, as they did, the clerk grabbed the bag, which fell to the floor. When the bag hit the floor, the gun discharged, killing the clerk. Which of the following would be the women's best defense to the charge of felony murder?\n\nChoices:\n(A) They committed a larceny by placing the three dresses in the shopping bag.\n(B) The jurisdiction requires the killing to be independent of the felony.\n(C) The jurisdiction follows the agency theory of felony murder.\n(D) The killing, was accidental and unintended.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "They committed a larceny by placing the three dresses in the shopping bag.",
+        "choices": [
+            "They committed a larceny by placing the three dresses in the shopping bag.",
+            "The jurisdiction requires the killing to be independent of the felony.",
+            "The jurisdiction follows the agency theory of felony murder.",
+            "The killing, was accidental and unintended."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: If the tax rate for a single person with $25,000 in taxable income is 24 percent, and the tax rate for a single person with $20,000 in taxable income is 20 percent, the tax rate over this income range is\n\nChoices:\n(A) regressive\n(B) progressive\n(C) proportional\n(D) revenue-neutral\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "progressive",
+        "choices": [
+            "regressive",
+            "progressive",
+            "proportional",
+            "revenue-neutral"
+        ],
+        "solution": "",
+        "domain": "miscellaneous",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I ripped off the merchant. Scenario 2 | I drank vodka during halftime of the big game.\n\nChoices:\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Wrong, Not wrong",
+        "choices": [
+            "Wrong, Wrong",
+            "Wrong, Not wrong",
+            "Not wrong, Wrong",
+            "Not wrong, Not wrong"
+        ],
+        "solution": "",
+        "domain": "moral_scenarios",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Thin laminations are used in a machine in order to reduce\n\nChoices:\n(A) Eddy current losses\n(B) Hysteresis losses\n(C) Both A and B\n(D) Copper losses\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Eddy current losses",
+        "choices": [
+            "Eddy current losses",
+            "Hysteresis losses",
+            "Both A and B",
+            "Copper losses"
+        ],
+        "solution": "",
+        "domain": "electrical_engineering",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: With respect to hair loss\n\nChoices:\n(A) Men lose but women do not\n(B) Men are more systematic than women\n(C) Women lose hair less frequently but more rapidly than men\n(D) Environmental factors are the main causes\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Men are more systematic than women",
+        "choices": [
+            "Men lose but women do not",
+            "Men are more systematic than women",
+            "Women lose hair less frequently but more rapidly than men",
+            "Environmental factors are the main causes"
+        ],
+        "solution": "",
+        "domain": "human_aging",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Triacylglycerides consist of I. A ribose backbone II. a glycerol backbone III. three phosphodiester linkages IV. three ester linkages\n\nChoices:\n(A) I and III\n(B) II only\n(C) II and III\n(D) II and IV\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "II and IV",
+        "choices": [
+            "I and III",
+            "II only",
+            "II and III",
+            "II and IV"
+        ],
+        "solution": "",
+        "domain": "college_medicine",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I fed her baby fingernails and toenails. Scenario 2 | I demanded a cigarette from the guy outside the store.\n\nChoices:\n(A) Wrong, Wrong\n(B) Wrong, Not wrong\n(C) Not wrong, Wrong\n(D) Not wrong, Not wrong\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Wrong, Wrong",
+        "choices": [
+            "Wrong, Wrong",
+            "Wrong, Not wrong",
+            "Not wrong, Wrong",
+            "Not wrong, Not wrong"
+        ],
+        "solution": "",
+        "domain": "moral_scenarios",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following changes to a circuit will always bring about an increase in the current?\n\nChoices:\n(A) Increased voltage and increased resistance\n(B) Decreased voltage and decreased resistance\n(C) Increased voltage and decreased resistance\n(D) Decreased voltage and increased resistance\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Increased voltage and increased resistance",
+        "choices": [
+            "Increased voltage and increased resistance",
+            "Decreased voltage and decreased resistance",
+            "Increased voltage and decreased resistance",
+            "Decreased voltage and increased resistance"
+        ],
+        "solution": "",
+        "domain": "high_school_physics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: The tripartite system used the 11+ exam to select pupils for:\n\nChoices:\n(A) popular schools that lay outside their catchment area\n(B) private, public and comprehensive schools\n(C) grammar, technical, and secondary modern schools\n(D) polytechnics, colleges and universities\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "grammar, technical, and secondary modern schools",
+        "choices": [
+            "popular schools that lay outside their catchment area",
+            "private, public and comprehensive schools",
+            "grammar, technical, and secondary modern schools",
+            "polytechnics, colleges and universities"
+        ],
+        "solution": "",
+        "domain": "sociology",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following was the first city and what was the estimated population?\n\nChoices:\n(A) Nagada, 5,000 people\n(B) Uruk, 10,000 people\n(C) Knossos, 20,000 people\n(D) Giza, 200,000 people\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Uruk, 10,000 people",
+        "choices": [
+            "Nagada, 5,000 people",
+            "Uruk, 10,000 people",
+            "Knossos, 20,000 people",
+            "Giza, 200,000 people"
+        ],
+        "solution": "",
+        "domain": "prehistory",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: The earliest-known use of bronze is found in:\n\nChoices:\n(A) South America.\n(B) Mesopotamia.\n(C) the Indus Valley.\n(D) China.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "China.",
+        "choices": [
+            "South America.",
+            "Mesopotamia.",
+            "the Indus Valley.",
+            "China."
+        ],
+        "solution": "",
+        "domain": "prehistory",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: This question refers to the following information.\n\"And then Shapur, King of Kings, passed away. Then his son Hormizd, King of Kings, rose over the empire. And Hormizd, King of Kings, conferred on me cap and belt and created for me a higher rank and dignity, and at court and in kingdom after kingdom, place after place, throughout the whole empire he gave me more authority and power in matters of the divine services, and created for me the title \"Kerdir, Ahura Mazda's [Chief Priest]\" after the name of Ahura Mazda, the Deity. And thereupon in kingdom after kingdom, place after place, many divine services were performed in magnificence, and many Warham fires were established, and many magi became happy and prosperous, and many fires and magi were imperially installed\u2026\nAnd then Hormizd, King of Kings, passed away. Then Bahram, King of Kings, son of Shapur, King of Kings, and brother of Hormizd, King of Kings, rose over the empire. And Bahram, King of Kings, also held me in high honor and dignity and at court and in kingdom after kingdom, place after place, gave me authority and power for divine services of every sort. And thereupon in kingdom after kingdom, place after place, many divine services were performed in magnificence and many Warharan fires were established, and many magi became happy and prosperous, and many fires and magi were imperially installed\u2026\nAnd in kingdom after kingdom and place after place throughout the whole empire the services of Ahura Mazda and the gods became preeminent, and great dignity came to the Mazdayanian religion and the magi in the empire, and the gods and water and fire and small cattle in the empire attained great satisfaction, while Ahriman [the evil counterpart to Ahura Mazda] and the demons were punished and rebuked, and the teachings of Ahriman and the demons departed from the empire and were abandoned. And Jews, Buddhists, Hindus, Nasoreans [Orthodox Christians], Christians, Maktak [Baptists], and Manichaeans in the empire were smitten, and destruction of idols and scattering of the stores of the demons and god-seats and nests was abandoned.\"\nExcerpt from the inscription of Kerdir at Naqsh-e-Rustam, Persia, late third century C.E.\nThe source best supports which of the following inferences about sources of political authority in the period circa 600 B.C.E.\u2013600 C.E.?\n\nChoices:\n(A) Rulers derived legitimacy for their rule by their sponsorship of religion and chief priests.\n(B) Rulers were limited in their political authority by powerful religious figures.\n(C) Rulers derived legitimacy for their rule through victories over foreign peoples.\n(D) Rulers derived legitimacy for their rule through the consent of those they governed.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Rulers derived legitimacy for their rule by their sponsorship of religion and chief priests.",
+        "choices": [
+            "Rulers derived legitimacy for their rule by their sponsorship of religion and chief priests.",
+            "Rulers were limited in their political authority by powerful religious figures.",
+            "Rulers derived legitimacy for their rule through victories over foreign peoples.",
+            "Rulers derived legitimacy for their rule through the consent of those they governed."
+        ],
+        "solution": "",
+        "domain": "high_school_world_history",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following statements is correct?\n\n\nChoices:\n(A) Sulfur dioxide is not used in foods containing thiamin because it causes destruction of the vitamin\n(B) Sulfur dioxide is not used in foods containing niacin because it causes destruction of the vitamin\n(C) Sulfur dioxide is not used in foods containing vitamin E because it causes destruction of the vitamin\n(D) Sulfur dioxide is not used in foods containing vitamin C because it causes destruction of the vitamin\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Sulfur dioxide is not used in foods containing thiamin because it causes destruction of the vitamin",
+        "choices": [
+            "Sulfur dioxide is not used in foods containing thiamin because it causes destruction of the vitamin",
+            "Sulfur dioxide is not used in foods containing niacin because it causes destruction of the vitamin",
+            "Sulfur dioxide is not used in foods containing vitamin E because it causes destruction of the vitamin",
+            "Sulfur dioxide is not used in foods containing vitamin C because it causes destruction of the vitamin"
+        ],
+        "solution": "",
+        "domain": "nutrition",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: 0.25 mol of a weak, monoprotic acid is dissolved in 0.25 L of distilled water. The pH was then measured as 4.26. What is the pKa of this weak acid?\n\nChoices:\n(A) 4.26\n(B) 8.52\n(C) 7.52\n(D) 3.66\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "8.52",
+        "choices": [
+            "4.26",
+            "8.52",
+            "7.52",
+            "3.66"
+        ],
+        "solution": "",
+        "domain": "high_school_chemistry",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Defendant was convicted of armed robbery. On appeal, Defendant moves for a new trial, claiming that his Sixth Amendment rights were violated because he received ineffective assistance of counsel at trial. Which of the following facts, if proven, would provide the best grounds to substantiate Defendant's ineffectiveness of counsel claim?\n\nChoices:\n(A) The trial attorney lied to Defendant about her criminal trial experience.\n(B) The trial attorney failed to interview an alibi witness.\n(C) The trial attorney did not consult Defendant about her trial strategy.\n(D) The trial attorney did not believe in Defendant's innocence.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "The trial attorney failed to interview an alibi witness.",
+        "choices": [
+            "The trial attorney lied to Defendant about her criminal trial experience.",
+            "The trial attorney failed to interview an alibi witness.",
+            "The trial attorney did not consult Defendant about her trial strategy.",
+            "The trial attorney did not believe in Defendant's innocence."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Suppose A and B are n \u00d7 n matrices with real entries. Which of the follow are TRUE?\nI. The trace of A^2 is nonnegative.\nII. If A^2 = A, then the trace of A is nonnegative.\nIII. The trace of AB is the product of the traces of A and B.\n\nChoices:\n(A) II only\n(B) III only\n(C) I and II only\n(D) II and III only\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "II only",
+        "choices": [
+            "II only",
+            "III only",
+            "I and II only",
+            "II and III only"
+        ],
+        "solution": "",
+        "domain": "college_mathematics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Phosphocreatine in the muscle cell is found in:\n\nChoices:\n(A) the mitochondria.\n(B) all subcellular compartments.\n(C) the sarcolemma.\n(D) the cytoplasm.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "the cytoplasm.",
+        "choices": [
+            "the mitochondria.",
+            "all subcellular compartments.",
+            "the sarcolemma.",
+            "the cytoplasm."
+        ],
+        "solution": "",
+        "domain": "clinical_knowledge",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Two volleyball teams that played in adjoining areas were competing in the National Volleyball Tournament Championship in a distant city. Both teams were staying at the same hotel. The assistant coach of one of the teams learned that the team captain of the other team was staying in the next room. In order to obtain information about the other team's strategy for the championship game, the assistant coach used electronic devices placed against the wall to listen to and record conversations between the team captain and his teammates. The assistant coach later bragged to others about having eavesdropped on the team captain, and the team captain eventually heard about what the assistant coach had done. If the team captain asserts a claim against the assistant coach for invasion of privacy, will the team captain prevail?\n\nChoices:\n(A) Yes, because the assistant coach was recording the conversation for the use and advantage of his team.\n(B) Yes, because the team captain had a reasonable expectation of privacy in his hotel room.\n(C) No, because the assistant coach's electronic devices did not physically intrude into the team captain's room.\n(D) No, because there was publication of the recorded conversations.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Yes, because the team captain had a reasonable expectation of privacy in his hotel room.",
+        "choices": [
+            "Yes, because the assistant coach was recording the conversation for the use and advantage of his team.",
+            "Yes, because the team captain had a reasonable expectation of privacy in his hotel room.",
+            "No, because the assistant coach's electronic devices did not physically intrude into the team captain's room.",
+            "No, because there was publication of the recorded conversations."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following is an example of an implied power of the Congress?\n\nChoices:\n(A) regulation of interstate commerce\n(B) borrowing money on the credit of the United States\n(C) oversight of executive branch agencies\n(D) declarations of war\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "oversight of executive branch agencies",
+        "choices": [
+            "regulation of interstate commerce",
+            "borrowing money on the credit of the United States",
+            "oversight of executive branch agencies",
+            "declarations of war"
+        ],
+        "solution": "",
+        "domain": "high_school_government_and_politics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: There are several differences between Parametric and Nonparametric Statistical Tests, for ex. Nonparametric Statistical Tests are less powerful than parametric tests. From your knowledge about the parametric tests, which statement can not be correct?\n\nChoices:\n(A) They are used for ordinal and nominal data\n(B) They are based on normal distribution\n(C) They are based on homogeneity of variance\n(D) They are based on Independence of Observations\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "They are used for ordinal and nominal data",
+        "choices": [
+            "They are used for ordinal and nominal data",
+            "They are based on normal distribution",
+            "They are based on homogeneity of variance",
+            "They are based on Independence of Observations"
+        ],
+        "solution": "",
+        "domain": "professional_psychology",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A 1-kg object is released from rest at the top of a rough-surfaced incline. The object slides without rotating to the bottom of the incline. The object\u2019s kinetic energy at the bottom must be\n\nChoices:\n(A) Equal to the block\u2019s gravitational potential energy when it was released, because total mechanical energy must be conserved.\n(B) Equal to the block\u2019s gravitational potential energy when it was released, because the gain in kinetic energy compensates for the mechanical energy lost to thermal energy on the rough incline.\n(C) Less than the block\u2019s gravitational potential energy when it was released, because the gravitational potential energy was converted both to thermal energy and to kinetic energy.\n(D) Less than the block\u2019s gravitational potential energy when it was released, because the work done by the friction force must be greater than the block\u2019s gain in kinetic energy.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "Less than the block\u2019s gravitational potential energy when it was released, because the gravitational potential energy was converted both to thermal energy and to kinetic energy.",
+        "choices": [
+            "Equal to the block\u2019s gravitational potential energy when it was released, because total mechanical energy must be conserved.",
+            "Equal to the block\u2019s gravitational potential energy when it was released, because the gain in kinetic energy compensates for the mechanical energy lost to thermal energy on the rough incline.",
+            "Less than the block\u2019s gravitational potential energy when it was released, because the gravitational potential energy was converted both to thermal energy and to kinetic energy.",
+            "Less than the block\u2019s gravitational potential energy when it was released, because the work done by the friction force must be greater than the block\u2019s gain in kinetic energy."
+        ],
+        "solution": "",
+        "domain": "high_school_physics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: If a gas occupies 0.1L at 200atm, what will its volume be at 1atm?\n\nChoices:\n(A) slightly less than 20L\n(B) 20L\n(C) slightly more than 20L\n(D) 2000L\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "slightly less than 20L",
+        "choices": [
+            "slightly less than 20L",
+            "20L",
+            "slightly more than 20L",
+            "2000L"
+        ],
+        "solution": "",
+        "domain": "college_medicine",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: What is the term for commentary on the Qur'an, which means \"unveiling\"?\n\nChoices:\n(A) fiqh\n(B) dhikr\n(C) ijtihad\n(D) tafsir\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "tafsir",
+        "choices": [
+            "fiqh",
+            "dhikr",
+            "ijtihad",
+            "tafsir"
+        ],
+        "solution": "",
+        "domain": "world_religions",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: How many votes in the Senate must a presidential nominee to the Supreme Court receive in order to be confirmed?\n\nChoices:\n(A) Forty percent\n(B) Fifty-one percent\n(C) Fifty-five percent\n(D) Sixty percent\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "Fifty-one percent",
+        "choices": [
+            "Forty percent",
+            "Fifty-one percent",
+            "Fifty-five percent",
+            "Sixty percent"
+        ],
+        "solution": "",
+        "domain": "high_school_government_and_politics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: If the Sun collapsed to become a black hole Planet Earth would\n\nChoices:\n(A) continue in its present orbit.\n(B) likely be sucked into the black hole.\n(C) be pulled apart by tidal forces.\n(D) Both C and D.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "continue in its present orbit.",
+        "choices": [
+            "continue in its present orbit.",
+            "likely be sucked into the black hole.",
+            "be pulled apart by tidal forces.",
+            "Both C and D."
+        ],
+        "solution": "",
+        "domain": "conceptual_physics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: The initials ADL stand for\n\nChoices:\n(A) Activities of Daily Living\n(B) American Disease Legion\n(C) Always Delay Learning\n(D) Ancient Dependent Ladies\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Activities of Daily Living",
+        "choices": [
+            "Activities of Daily Living",
+            "American Disease Legion",
+            "Always Delay Learning",
+            "Ancient Dependent Ladies"
+        ],
+        "solution": "",
+        "domain": "human_aging",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: With the presence of a positive externality, which of the following would correct the externality?\n\nChoices:\n(A) A government subsidy.\n(B) A government tax.\n(C) A higher price.\n(D) A lower level of output.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "A government subsidy.",
+        "choices": [
+            "A government subsidy.",
+            "A government tax.",
+            "A higher price.",
+            "A lower level of output."
+        ],
+        "solution": "",
+        "domain": "high_school_microeconomics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Which of the following heavenly bodies have never had a spacecraft landed on it?\n\nChoices:\n(A) Venus\n(B) Mars\n(C) The Moon\n(D) Jupiter\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "Jupiter",
+        "choices": [
+            "Venus",
+            "Mars",
+            "The Moon",
+            "Jupiter"
+        ],
+        "solution": "",
+        "domain": "miscellaneous",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Gulde\u2019s tax basis in Chyme Partnership was $26,000 at the time Gulde received a liquidating distribution of $12,000 cash and land with an adjusted basis to Chyme of $10,000 and a fair market value of $30,000. Chyme did not have unrealized receivables, appreciated inventory, or properties that had been contributed by its partners. What was the amount of Gulde\u2019s basis in the land?\n\nChoices:\n(A) $0\n(B) $10,000\n(C) $14,000\n(D) $30,000\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "$14,000",
+        "choices": [
+            "$0",
+            "$10,000",
+            "$14,000",
+            "$30,000"
+        ],
+        "solution": "",
+        "domain": "professional_accounting",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: What is the implication of American exceptionalism in terms of global economics?\n\nChoices:\n(A) It encourages the use of tariffs\n(B) It encourages nationalization\n(C) It encourages liberalization of global trade\n(D) It encourages redistribution of wealth\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(C)",
+        "raw_answer": "It encourages liberalization of global trade",
+        "choices": [
+            "It encourages the use of tariffs",
+            "It encourages nationalization",
+            "It encourages liberalization of global trade",
+            "It encourages redistribution of wealth"
+        ],
+        "solution": "",
+        "domain": "us_foreign_policy",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: This question refers to the following information.\nSource 1:\n\"Moreover, Sir, in our Kingdoms there is another great inconvenience which is of little service to God, and this is that many of our people, keenly desirous as they are of the wares and things of your Kingdoms, which are brought here by your people, and in order to satisfy their voracious appetite, seize many of our people, freed and exempt men, and very often it happens that they kidnap even noblemen and our relatives, and take them to be sold to the white men who are in our kingdoms.\"\nLetter from King Afonso I of Kongo to King John III of Portugal, 1526\nSource 2:\n\"This expedition has cost us much: it would be unreasonable to send it home with empty hands. Although our [principal] wish is to serve God and the pleasure of the king of Kongo, none the less you will make him understand\u2014as though speaking in our name\u2014what he should do to fill the ships, whether with slaves, or copper, or ivory.\"\nInstructions from King Manuel of Portugal to his envoy in Kongo, 1512\nThe tone of the first letter best reflects which of the following developments in early modern Africa?\n\nChoices:\n(A) A growing dependence on trade with Europe for manufactured goods\n(B) Vigorous resistance to European expeditions of conquest\n(C) The establishment of Portuguese trading posts along the coastline\n(D) The consolidation of states along the Atlantic coast of Africa\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "A growing dependence on trade with Europe for manufactured goods",
+        "choices": [
+            "A growing dependence on trade with Europe for manufactured goods",
+            "Vigorous resistance to European expeditions of conquest",
+            "The establishment of Portuguese trading posts along the coastline",
+            "The consolidation of states along the Atlantic coast of Africa"
+        ],
+        "solution": "",
+        "domain": "high_school_world_history",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: As of 2017, the share of global deaths by suicide is about\n\nChoices:\n(A) 0.70%\n(B) 1.40%\n(C) 2.80%\n(D) 5.60%\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "1.40%",
+        "choices": [
+            "0.70%",
+            "1.40%",
+            "2.80%",
+            "5.60%"
+        ],
+        "solution": "",
+        "domain": "global_facts",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: This question refers to the following information.\n\"And then Shapur, King of Kings, passed away. Then his son Hormizd, King of Kings, rose over the empire. And Hormizd, King of Kings, conferred on me cap and belt and created for me a higher rank and dignity, and at court and in kingdom after kingdom, place after place, throughout the whole empire he gave me more authority and power in matters of the divine services, and created for me the title \"Kerdir, Ahura Mazda's [Chief Priest]\" after the name of Ahura Mazda, the Deity. And thereupon in kingdom after kingdom, place after place, many divine services were performed in magnificence, and many Warham fires were established, and many magi became happy and prosperous, and many fires and magi were imperially installed\u2026\nAnd then Hormizd, King of Kings, passed away. Then Bahram, King of Kings, son of Shapur, King of Kings, and brother of Hormizd, King of Kings, rose over the empire. And Bahram, King of Kings, also held me in high honor and dignity and at court and in kingdom after kingdom, place after place, gave me authority and power for divine services of every sort. And thereupon in kingdom after kingdom, place after place, many divine services were performed in magnificence and many Warharan fires were established, and many magi became happy and prosperous, and many fires and magi were imperially installed\u2026\nAnd in kingdom after kingdom and place after place throughout the whole empire the services of Ahura Mazda and the gods became preeminent, and great dignity came to the Mazdayanian religion and the magi in the empire, and the gods and water and fire and small cattle in the empire attained great satisfaction, while Ahriman [the evil counterpart to Ahura Mazda] and the demons were punished and rebuked, and the teachings of Ahriman and the demons departed from the empire and were abandoned. And Jews, Buddhists, Hindus, Nasoreans [Orthodox Christians], Christians, Maktak [Baptists], and Manichaeans in the empire were smitten, and destruction of idols and scattering of the stores of the demons and god-seats and nests was abandoned.\"\nExcerpt from the inscription of Kerdir at Naqsh-e-Rustam, Persia, late third century C.E.\nWhich of the following best explains the presence of Buddhist communities within Sassanid Persia?\n\nChoices:\n(A) Persian efforts to convert people away from Buddhism inspired further followers.\n(B) Buddhism's apocalyptic message swayed converts in Persia.\n(C) Persia's location sat astride international trade routes with India.\n(D) Buddhists were granted limited toleration by Zoroastrians.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "Persian efforts to convert people away from Buddhism inspired further followers.",
+        "choices": [
+            "Persian efforts to convert people away from Buddhism inspired further followers.",
+            "Buddhism's apocalyptic message swayed converts in Persia.",
+            "Persia's location sat astride international trade routes with India.",
+            "Buddhists were granted limited toleration by Zoroastrians."
+        ],
+        "solution": "",
+        "domain": "high_school_world_history",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: This question refers to the following information.\n\"On the 4th of March next this party [the Republican party] will take possession of the government. It has announced that the South shall be excluded from the common territory, that the judicial tribunal shall be made sectional, and that a war must be waged against slavery until it shall cease throughout the United States. The guarantees of the Constitution will then no longer exist; the equal rights of the states will be lost. The slaveholding states will no longer have the power of self-government or self-protection, and the federal government will have become their enemy.\n\"We, therefore, the people of South Carolina, by our delegates in convention assembled, have solemnly declared that the Union heretofore existing between this state and the other states of North America is dissolved; and that the state of South Carolina has resumed her position among the nations of the world, as [a] separate and independent state, with full power to levy war, conclude peace, contract alliances, establish commerce, and to do all other acts and things which independent states may of right do.\"\nSouth Carolina defines the causes of secession, 1860\nWhich of the following best explains why South Carolina chose to secede from the Union in 1860?\n\nChoices:\n(A) The failures of the Compromise of 1850 hindered South Carolina's trade relationships with Western states, leading to severe economic recession.\n(B) The Battle of Fort Sumter occurred in Charleston, prompting public outrage over Union aggression.\n(C) President Lincoln signed the Emancipation Proclamation, thus undermining slavery in the South.\n(D) Lincoln's election on a Free-Soil platform led Southern politicians to conclude that secession was necessary.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "Lincoln's election on a Free-Soil platform led Southern politicians to conclude that secession was necessary.",
+        "choices": [
+            "The failures of the Compromise of 1850 hindered South Carolina's trade relationships with Western states, leading to severe economic recession.",
+            "The Battle of Fort Sumter occurred in Charleston, prompting public outrage over Union aggression.",
+            "President Lincoln signed the Emancipation Proclamation, thus undermining slavery in the South.",
+            "Lincoln's election on a Free-Soil platform led Southern politicians to conclude that secession was necessary."
+        ],
+        "solution": "",
+        "domain": "high_school_us_history",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: This question refers to the following information.\nThe following excerpt is from a pamphlet.\nYou will do me the justice to remember, that I have always strenuously supported the Right of every man to his own opinion, however different that opinion might be to mine. He who denies to another this right, makes a slave of himself to his present opinion, because he precludes himself the right of changing it.\nThe most formidable weapon against errors of every kind is Reason. I have never used any other, and I trust I never shall.\nThe circumstance that has now taken place in France of the total abolition of the whole national order of priesthood, and of everything appertaining to compulsive systems of religion, and compulsive articles of faith, has not only precipitated my intention, but rendered a work of this kind exceedingly necessary, lest in the general wreck of superstition, of false systems of government, and false theology, we lose sight of morality, of humanity, and of the theology that is true.\nI believe in one God, and no more; and I hope for happiness beyond this life.\nI believe in the equality of man; and I believe that religious duties consist in doing justice, loving mercy, and endeavoring to make our fellow-creatures happy.\nI do not believe in the creed professed by the Jewish church, by the Roman church, by the Greek church, by the Turkish church, by the Protestant church, nor by any church that I know of. My own mind is my own church.\nAll national institutions of churches, whether Jewish, Christian or Turkish, appear to me no other than human inventions, set up to terrify and enslave mankind, and monopolize power and profit.\nI do not mean by this declaration to condemn those who believe otherwise; they have the same right to their belief as I have to mine.\n\u2014Thomas Paine, The Age of Reason, 1794\u20131795\nThe document above supports which of the following demands of the Enlightenment philosophes?\n\nChoices:\n(A) Deism should be adopted by all as the only logical religion.\n(B) Religious toleration leads to the destruction of social unity.\n(C) Skepticism is not a reliable way of examining information.\n(D) Religious toleration should be given to all people of all religions.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "Religious toleration should be given to all people of all religions.",
+        "choices": [
+            "Deism should be adopted by all as the only logical religion.",
+            "Religious toleration leads to the destruction of social unity.",
+            "Skepticism is not a reliable way of examining information.",
+            "Religious toleration should be given to all people of all religions."
+        ],
+        "solution": "",
+        "domain": "high_school_european_history",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A defendant was charged with vehicular battery after driving through a red light and crashing into a woman's small convertible. The woman suffered massive internal injuries and lapsed into a coma for several hours after she reached the hospital. The woman's best friend, who was a passenger in the car, miraculously received only a few minor bruises. After the collision, the passenger stayed with the woman trying to comfort her until the ambulance arrived. At trial, the passenger is called to testify. \u0080\u0098While on the witness stand, she gazes with sorrow at the woman, who is still wearing a cast on her leg. The passenger testifies that the first thing she remembered seeing after the accident was the woman's bloodied body trapped in the mangled wreckage. The state's attorney then asked the passenger if the woman said anything to her before being taken to the hospital. The passenger answered, \"Yes, she told me: \u0080\u0098I know I'm dying. Why did he have to run that red light?\"Upon objection by the defendant's attorney, the court should rule the passenger's testimony\n\nChoices:\n(A) admissible, because it is irrelevant that this is not a homicide case.\n(B) admissible, because the woman believed her death was imminent when she made the declaration.\n(C) inadmissible, because of the close relationship between the woman and the passenger.\n(D) inadmissible, because it is hearsay not within any recognized exception.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "admissible, because it is irrelevant that this is not a homicide case.",
+        "choices": [
+            "admissible, because it is irrelevant that this is not a homicide case.",
+            "admissible, because the woman believed her death was imminent when she made the declaration.",
+            "inadmissible, because of the close relationship between the woman and the passenger.",
+            "inadmissible, because it is hearsay not within any recognized exception."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Suppose that for some $a,b,c$ we have $a+b+c = 6$, $ab+ac+bc = 5$ and $abc = -12$. What is $a^3+b^3+c^3$?\n\nChoices:\n(A) 90\n(B) 99\n(C) 64\n(D) 91\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(A)",
+        "raw_answer": "90",
+        "choices": [
+            "90",
+            "99",
+            "64",
+            "91"
+        ],
+        "solution": "",
+        "domain": "high_school_mathematics",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A defendant was arrested and charged with burglarizing a home. At trial, the main issue of contention centered on the identity of the burglar. The state called the homeowner to testify, but his identification testimony was inconclusive. The homeowner testified that he was asleep during the burglary and awoke as the burglar was fleeing the premises. The homeowner admitted that he didn't see the face of the burglar and couldn't even tell whether the person was male or female. Thereafter, the prosecution offers evidence that at the time of the burglary, the defendant needed money to defend himself against other burglary charges. This proffered evidence should be\n\nChoices:\n(A) admitted without restriction as probative evidence of motive.\n(B) admitted, provided the court instructs the jury to limit use of the evidence to the defendant's motive to burglarize.\n(C) excluded as lacking any probative value.\n(D) excluded as substantially more unfairly prejudicial than probative.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "excluded as substantially more unfairly prejudicial than probative.",
+        "choices": [
+            "admitted without restriction as probative evidence of motive.",
+            "admitted, provided the court instructs the jury to limit use of the evidence to the defendant's motive to burglarize.",
+            "excluded as lacking any probative value.",
+            "excluded as substantially more unfairly prejudicial than probative."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: A city filed eminent domain proceedings in order to obtain 40 beach houses fronting a particularly attractive stretch of shoreline. As part of an elaborate plan to increase the city's tourist trade and revive the local economy, the city planned to sell the beach houses to a company that would demolish the houses and build a luxury hotel in their place. The owners of the beach houses have challenged the city's exercise of eminent domain, contending only that the city's plan is unconstitutional. Will the owners of the beach houses be likely to prevail?\n\nChoices:\n(A) No, because a property owner can challenge an exercise of eminent domain only on the ground of the sufficiency of the compensation.\n(B) No, because the planned sale to the private developer to increase the tourist trade qualifies as a public use.\n(C) Yes, because a public entity cannot seize the property of one person in order to transfer that property intact to other private parties.\n(D) Yes, because the city's action would deprive the owners of all economic use of their property.\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "No, because the planned sale to the private developer to increase the tourist trade qualifies as a public use.",
+        "choices": [
+            "No, because a property owner can challenge an exercise of eminent domain only on the ground of the sufficiency of the compensation.",
+            "No, because the planned sale to the private developer to increase the tourist trade qualifies as a public use.",
+            "Yes, because a public entity cannot seize the property of one person in order to transfer that property intact to other private parties.",
+            "Yes, because the city's action would deprive the owners of all economic use of their property."
+        ],
+        "solution": "",
+        "domain": "professional_law",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Plaid Pants, Inc. common stock has a beta of 0.90, while Acme Dynamite Company common stock has a beta of 1.80. The expected return on the market is 10 percent, and the risk-free rate is 6 percent. According to the capital-asset pricing model (CAPM) and making use of the information above, the required return on Plaid Pants' common stock should be , and the required return on Acme's common stock should be .\n\nChoices:\n(A) 3.6 percent; 7.2 percent\n(B) 9.6 percent; 13.2 percent\n(C) 9.0 percent; 18.0 percent\n(D) 14.0 percent; 23.0 percent\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(B)",
+        "raw_answer": "9.6 percent; 13.2 percent",
+        "choices": [
+            "3.6 percent; 7.2 percent",
+            "9.6 percent; 13.2 percent",
+            "9.0 percent; 18.0 percent",
+            "14.0 percent; 23.0 percent"
+        ],
+        "solution": "",
+        "domain": "professional_accounting",
+        "subdomain": "",
+        "difficulty": ""
+    },
+    {
+        "problem": "What is the correct answer to this question: Suppose A is a 3 \u00d7 3 matrix such that det(A \u2212 \u03bbI) = \u2212\u03bb^3 + 3\u03bb^2 + \u03bb \u2212 3, where I is the 3 \u00d7 3 identity matrix. Which of the following are TRUE of A?\nI. The trace of A is 3.\nII. The determinate of A is \u22123.\nIII. The matrix A has eigenvalues \u22123 and 1.\n\nChoices:\n(A) I only\n(B) II only\n(C) III only\n(D) I and II only\nOnly put the option letter in the box, e.g. \\boxed{A}. There is only one correct answer",
+        "answer": "(D)",
+        "raw_answer": "I and II only",
+        "choices": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II only"
+        ],
+        "solution": "",
+        "domain": "college_mathematics",
+        "subdomain": "",
+        "difficulty": ""
+    }
+]
