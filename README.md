@@ -1,6 +1,7 @@
 <div align=center>
 
-<h1>AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint</h1>
+<h1>On Reasoning Strength Planning
+in Large Reasoning Models</h1>
 
 <img src="https://img.shields.io/badge/License-MIT-blue" alt="license">
 
